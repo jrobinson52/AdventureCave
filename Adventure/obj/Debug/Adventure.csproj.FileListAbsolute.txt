@@ -1,0 +1,7 @@
+c:\users\joshua\source\repos\Adventure\Adventure\obj\Debug\Adventure.csprojResolveAssemblyReference.cache
+c:\users\joshua\source\repos\Adventure\Adventure\obj\Debug\Adventure.csproj.CoreCompileInputs.cache
+c:\users\joshua\source\repos\Adventure\Adventure\bin\Debug\Adventure.exe.config
+c:\users\joshua\source\repos\Adventure\Adventure\bin\Debug\Adventure.exe
+c:\users\joshua\source\repos\Adventure\Adventure\bin\Debug\Adventure.pdb
+c:\users\joshua\source\repos\Adventure\Adventure\obj\Debug\Adventure.exe
+c:\users\joshua\source\repos\Adventure\Adventure\obj\Debug\Adventure.pdb
